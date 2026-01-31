@@ -1,1 +1,3 @@
 # Customer_Behavior_Analytics
+
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. Python was used for data cleaning, exploratory analysis, and feature engineering, while PostgreSQL was used to answer key business questions. The analysis focuses on spending patterns, customer segmentation, product performance, discounts, and subscriptions. An interactive Power BI dashboard was created to visualize insights and support data-driven decision-making. The results provide actionable recommendations for marketing, pricing, and customer retention strategies.
